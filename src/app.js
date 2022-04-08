@@ -97,7 +97,7 @@ const aDifficultChoice = (choice) => {
   } else {
     return "Wasn't able to decide"
   }
-}
+} 
 
 //Progression 7:
 //Lily realized that she'd hurt her daughter
